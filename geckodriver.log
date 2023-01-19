@@ -1,0 +1,10 @@
+1674131445801	geckodriver	INFO	Listening on 127.0.0.1:60601
+1674131446317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60602" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/fy/c59m9hzj717b7x1gfx7z9vlm0000gn/T/rust_mozprofile4fSWNp"
+2023-01-19 15:30:50.916 plugin-container[24204:1689760] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-19 15:30:50.920 plugin-container[24204:1689760] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60602
+2023-01-19 15:30:50.965 plugin-container[24204:1689760] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-19 15:30:50.965 plugin-container[24204:1689760] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-01-19 15:30:50.966 plugin-container[24204:1689757] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-01-19 15:30:50.966 plugin-container[24204:1689757] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:60602/devtools/browser/cbf9b209-f4cc-47ed-9be6-cdf6e9d87490
